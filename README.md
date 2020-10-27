@@ -7,13 +7,9 @@ Se desarrollo un programa que usa el formato MVC (Modelo, Vista y Controlador) c
 https://flipgrid.com/
 
 #Elementos visuales y funcionamiento.
-~Dos textLabel que nos muestran en que parte hay que ingresar nuestras credenciales(password y contraseña).
-
-~Dos JButton, uno para Entrar dependiendo de las credenciales ingresadas, y el otro para registrar Usuarios.
-
-~Un JPassword para ocultar nuestra contraseña.
-
-~Un JTextField para ingresar el usuario.
+Para este programa utilice por parte de las librerias de netbeans los botones  JButton para iniciar sesion y para crear la cuenta 
+-Un JPassword para ocultar nuestra contraseña.
+-Un JTextField para ingresar el usuario.
 
 #Pre-requisitos. 📋
 Este programa usa librerias propias de Java invocadas en cada clase correspondiente, GitHub para subir nuestras clases y nuestro .jar y un IDE Netbeans 8.2 gratuito.
